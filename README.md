@@ -20,8 +20,8 @@ Join in to hear some of Tuhin and Bargava’s success stories.
 
 ## Conferences:-
 
-[1] [ODSC India 2019](https://confengine.com/odsc-india-2019/proposal/10633/anomaly-detection-for-cyber-security-using-federated-learning)
-[2] [O'reilly AI London 2019](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/public/schedule/detail/78152.html)
-[3] [Pycon India 2019](https://in.pycon.org/cfp/2019/proposals/anomaly-detection-in-cyber-security-for-iot-using-federated-learning~bYK9e/)
-[4] [Datahack Summit 2019](https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-secure-and-privacy-preserving-deep-learning-using-federated-learning/)
+[1] [ODSC India 2019](https://confengine.com/odsc-india-2019/proposal/10633/anomaly-detection-for-cyber-security-using-federated-learning)  
+[2] [O'reilly AI London 2019](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/public/schedule/detail/78152.html)  
+[3] [Pycon India 2019](https://in.pycon.org/cfp/2019/proposals/anomaly-detection-in-cyber-security-for-iot-using-federated-learning~bYK9e/)  
+[4] [Datahack Summit 2019](https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-secure-and-privacy-preserving-deep-learning-using-federated-learning/)  
 [5] [GIDS 2020](https://wurreka.com/ict/virtual-conference/aiml/session/anomaly-detection-in-smart-buildings-using-federated-learning)
